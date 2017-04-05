@@ -13,7 +13,7 @@ The goal of the data cleanup, exploratory data analysis and feature engineering 
 
 Conclusion to my hypothesis test is to reject the null hypothesis that the pace that a chart topping track peaked is the same as the pace that a non-chart topper peaked.  In other words, since the p-value of 0.02 is less than the selected confidence interval (alpha) of 0.05, then we can reject the null hypothesis. T-statistic of 0.04 is also less than the confidence interval.  Although the p-value or probability of getting the mean of x given our sample, does lend evidence to the mean date difference not being the same between those tracks that reached the one ranking and those that did not, further studies are indeed required.  Hypothesis testing will not give me magnitude of the supported difference.  
 
-![photo](/images/project-2-billboard/Histogram Ever #1 Tracks Billboard Top 100.png)
+![photo](/images/project-2-billboard/Histogram Ever 1 Tracks Billboard Top 100.png)
 
 As an additional step to attempt to convince myself that my results were not just simply due to luck of chance, I also  reshuffled the date difference (between date peaked and date entered) values 10,000 times and compared those results against the mean differences between my two cohorts. What I found is that the answer in this case is under 0.001. That is less than 0.1%. So I conclude that the difference between the averages of the samples is real.
 
