@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an information technology professional specializing in data science & data analytics with over 20 years of experience supporting a diverse mixture of business sectors including insurance, investment banking, pharmaceutical, and healthcare. Expertise as a Data Scientist, SAS Developer, Python Developer, Business Analyst and Project Manager with a record of accomplishment in building and delivering comprehensive IT implementations to production.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Husband and father of 3 children, 2x marathoner, and avid baseball/fútbol fan living in the greater New York City area.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[deisnel.cardenas@gmail.com](mailto:deisnel.cardenas@gmail.com)
