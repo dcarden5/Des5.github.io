@@ -10,9 +10,9 @@ Information technology professional specializing in data science & data analytic
 
 Husband and father of 3 children, 2x marathoner, and avid baseball/fútbol fan living in the greater New York City area.
 
-![photo](/images/dcarden5.github.io/images/Profile Pic for Deisnel Cardenas.jpg)
-
 ### Contact me
 
 [deisnel.cardenas@gmail.com](mailto:deisnel.cardenas@gmail.com)
+
+![photo](/images/Profile Pic for Deisnel Cardenas.jpg)
 
